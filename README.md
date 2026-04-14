@@ -93,18 +93,6 @@ python scripts/evaluation/compare_methods.py --dataset DRIVE
 | MedSegDiff | 0.8405 | 0.8449 | 0.8914 |
 | **WMH-DiffSeg** | **0.8739** | **0.8607** | **0.9109** |
 
-## Citation
-
-If you use this code, please cite:
-
-```bibtex
-@article{medsegdiff2023,
-  title={MedSegDiff: Medical Image Segmentation with Diffusion Probabilistic Model},
-  author={Wu, Junde and Fu, Rao and Fang, Huihui and Liu, Yuanpei and Wang, Zhaowei and Xu, Yanwu and Jin, Yueming and Arbel, Tal},
-  journal={arXiv preprint arXiv:2211.00611},
-  year={2023}
-}
-```
 
 ## License
 
